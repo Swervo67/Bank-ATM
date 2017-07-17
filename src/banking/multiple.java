@@ -1,4 +1,4 @@
-package activity;
+package banking;
 
 import java.text.NumberFormat;
 import java.util.Date;
